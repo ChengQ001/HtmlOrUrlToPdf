@@ -1,0 +1,6 @@
+C:\Users\Administrator.SKY-20180301EDX\Desktop\wkhtmltopdf-master\Tests\Codaxy.WkHtmlToPdf.Tests\bin\Debug\Codaxy.WkHtmlToPdf.Tests.exe.config
+C:\Users\Administrator.SKY-20180301EDX\Desktop\wkhtmltopdf-master\Tests\Codaxy.WkHtmlToPdf.Tests\bin\Debug\Codaxy.WkHtmlToPdf.Tests.exe
+C:\Users\Administrator.SKY-20180301EDX\Desktop\wkhtmltopdf-master\Tests\Codaxy.WkHtmlToPdf.Tests\bin\Debug\Codaxy.WkHtmlToPdf.Tests.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\wkhtmltopdf-master\Tests\Codaxy.WkHtmlToPdf.Tests\obj\x86\Debug\Codaxy.WkHtmlToPdf.Tests.exe
+C:\Users\Administrator.SKY-20180301EDX\Desktop\wkhtmltopdf-master\Tests\Codaxy.WkHtmlToPdf.Tests\obj\x86\Debug\Codaxy.WkHtmlToPdf.Tests.pdb
+C:\Users\Administrator.SKY-20180301EDX\Desktop\wkhtmltopdf-master\Tests\Codaxy.WkHtmlToPdf.Tests\obj\x86\Debug\Codaxy.WkHtmlToPdf.Tests.csprojResolveAssemblyReference.cache
